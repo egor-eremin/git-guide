@@ -1,0 +1,17 @@
+// stylelint-disable at-rule-empty-line-before
+
+@import "variables";
+@import "functions";
+@import "mixins";
+@import "sprites";
+@import "fonts";
+@import "vendor";
+@import "base";
+
+.git-question {
+  list-style-type: none;
+  margin-top: 50px;
+}
+.git-question__item {
+  margin-bottom: 15px;
+}
